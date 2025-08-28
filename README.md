@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm SuperGamer474
 
-<!--
-**SuperGamer474/SuperGamer474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I love building tools, games, websites, and fun projects!  
+🌱 Currently learning: Python, HTML, Swift, and PHP!  
+💬 Ask me about: Game dev, CLI tools, or automation!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperGamer474&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperGamer474&layout=compact&theme=tokyonight)  
+[![SuperGamer474's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuperGamer474&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+![Profile Views](https://komarev.com/ghpvc/?username=SuperGamer474&color=blue&style=flat)
