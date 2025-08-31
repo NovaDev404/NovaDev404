@@ -2,7 +2,7 @@
 
 🎮 I love building tools, games, websites, and fun projects!  
 🌱 Currently learning: Python, HTML, Swift, and PHP!  
-💬 Ask me about: Game dev, CLI tools, or automation!  
+🌐 My website: [SuperGamer474.rf.gd](https://supergamer474.rf.gd/home/)
 
 ---
 
