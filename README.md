@@ -1,9 +1,10 @@
-# Hi there 👋 I'm NovaDev404 (Previously SuperGamer474)
+# Hi there 👋 I'm NovaDev404
 
 🎮 I love building tools, games, websites, and fun projects!  
 🌱 Currently learning: Python, HTML, Swift, Unreal Engine, and PHP!  
 💡 Most of my repositories are built with the help of ChatGPT, but all the project ideas, direction, and creativity are my own.  
-🌐 My website: [SuperGamer474.rf.gd](https://supergamer474.rf.gd/home/), [SG4 Hub](https://sg4hub.page.gd)
+🌐 My website: [NovaDev404.rf.gd](https://NovaDev404.rf.gd/home/), [NovaDev Hub](https://NovaDev.vip/)  
+✉️ Contact: [Email me](mailto:NovaDev404@novadev.vip)
 
 ---
 
