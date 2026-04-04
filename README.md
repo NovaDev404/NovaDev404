@@ -1,11 +1,22 @@
-# Hi there 👋 I'm NovaDev404
+# Hi 👋 I'm NovaDev404
 
-🎮 I love building tools, games, websites, and fun projects!  
-🌱 Currently learning: Python, HTML, Swift, Unreal Engine, and PHP!  
-💡 Most of my repositories are built with the help of ChatGPT, but all the project ideas, direction, and creativity are my own.  
-🌐 My website: [NovaDev Hub](https://NovaDev.vip/)  
-✉️ Email: [NovaDev404@novadev.vip](mailto:NovaDev404@novadev.vip)
+I build tools, services, and projects across web and backend systems.
+My current focus is iOS sideloading.
 
----
+## Current Project
+- Dodohost — https://dodohost.novadev.vip  
+  A blockheads server hosting platform I’m actively developing and improving.
+
+## Skills
+- HTML/CSS/JS
+- Python
+- PHP  
+- Swift  
+- Backend systems and automation  
+- Unreal Engine
+
+## Links
+- Website — https://novadev.vip  
+- Email — NovaDev404@novadev.vip  
 
 ![Stats](https://githubcard.com/NovaDev404.svg?d=t4vblkO1)
