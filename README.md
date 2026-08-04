@@ -4,8 +4,8 @@ I build tools, services, and projects across web and backend systems.
 My current focus is iOS sideloading.
 
 ## Current Project
-- Dodohost: https://dodohost.novadev.vip  
-  A blockheads server hosting platform I’m actively developing and improving.
+- NexSideloading: https://sideloading.net
+  A home for all your iOS sideloading needs!
 
 ## Skills
 - HTML/CSS/JS
